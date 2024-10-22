@@ -1,0 +1,130 @@
+*,
+html{
+  margin: 0;
+  padding:0;
+}
+
+.container{
+
+}
+
+.navbar-container{
+  background-color: crimson;
+  width: 100%;
+  height: 5vh;
+  
+}
+
+.ul-container{
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  font-weight: 800px;
+  
+  
+}
+
+
+.li-container {
+  color: #ffffff;
+  font-family: Times New Roman;
+  font-size: 15px;
+  list-style-type: none;
+  padding: 10px;
+  margin: 5px;
+}
+
+.li-container:hover {
+  background-color: cyan
+  transition: .2s ease-in-out;
+  transition-delay: .1s;
+  border-radius: 5px;
+}
+
+.content-container{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh;
+}
+
+.a-container{
+ color: black;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.img-content{
+  height: 50%;
+  width: 60%;
+}
+
+
+.container-footer{
+  background-color: crimson;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+}
+
+.h1-footer{
+  font-size: 40px;
+  color: white;
+}
+
+.a-navbar{
+color: white;  
+text-decoration: none;
+}
+
+/* contact.html */
+
+.wa-content{
+  height: 60px;
+  width: 60px;
+  
+}
+
+.ig-content{
+  height: 60px;
+  width: 60px%;
+  
+}
+
+.fb-content{
+  height: 60px;
+  width: 60px;
+
+}
+
+.a1-content{
+  height: 50%;
+  width: 50%;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a2-content{
+  height: 50%;
+  width: 50%;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a3-content{
+  height: 50%;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+  
