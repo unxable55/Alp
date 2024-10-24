@@ -19,6 +19,7 @@ html{
   display: flex;
   height: 100px;
   justify-content: center;
+  align-items: center;
   font-weight: 800px;
   
   
